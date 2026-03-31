@@ -101,5 +101,3 @@ This project follows a layered backend architecture:
 * Implement robust validation
 * Implement unit and integration testing
 * Add frontend client integration
-
----
